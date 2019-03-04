@@ -13,5 +13,5 @@
 ## Naive Bayes Implementation
 - https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt
 
-## Multi-class Classification
-- https://towardsdatascience.com/the-multiclass-definitions-356d2de7ef20
+## Multi-label Classification
+- https://www.analyticsvidhya.com/blog/2017/08/introduction-to-multi-label-classification/
