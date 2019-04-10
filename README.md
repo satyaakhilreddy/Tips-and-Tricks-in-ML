@@ -18,3 +18,8 @@
 
 ## Object Detection
 - https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/
+
+## Neural Networks
+- https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
+- https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
+- http://neuralnetworksanddeeplearning.com/chap2.html (Understanding Backpropagation)
