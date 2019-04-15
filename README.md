@@ -23,3 +23,8 @@
 - https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
 - https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
 - http://neuralnetworksanddeeplearning.com/chap2.html (Understanding Backpropagation)
+
+## CNN
+- https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
+- https://www.tensorflow.org/tutorials/keras/basic_classification (To start off!!)
+- https://www.tensorflow.org/alpha/tutorials/generative/dcgan (A little bit in depth)
