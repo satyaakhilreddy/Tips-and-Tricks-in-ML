@@ -28,3 +28,4 @@
 - https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
 - https://www.tensorflow.org/tutorials/keras/basic_classification (To start off!!)
 - https://www.tensorflow.org/alpha/tutorials/generative/dcgan (A little bit in depth)
+- https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f (Note on optimizers)
