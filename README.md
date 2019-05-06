@@ -30,3 +30,7 @@
 - https://www.tensorflow.org/alpha/tutorials/generative/dcgan (A little bit in depth)
 - https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f (Note on optimizers)
 - https://medium.com/@vijayabhaskar96/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720 (Image augmentation)
+
+## Time Series
+- https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+- https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
