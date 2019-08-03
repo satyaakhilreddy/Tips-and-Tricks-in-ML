@@ -39,3 +39,6 @@
 - https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265
 - https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
 - http://karpathy.github.io/2016/05/31/rl/?source=post_page---------------------------
+
+## KNN
+- https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
