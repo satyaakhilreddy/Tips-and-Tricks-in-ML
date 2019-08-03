@@ -42,3 +42,6 @@
 
 ## KNN
 - https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
+
+## SVM
+- https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
