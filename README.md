@@ -51,4 +51,5 @@
 - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 - https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
 - https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
+- https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
 - https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
