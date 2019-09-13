@@ -53,3 +53,8 @@
 - https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
 - https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
 - https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
+
+## Clustering Algorithms
+- http://www.kimberlycoffey.com/blog/2016/8/k-means-clustering-for-customer-segmentation
+- https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac
+- https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
